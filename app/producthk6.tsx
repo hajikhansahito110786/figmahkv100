@@ -1,13 +1,13 @@
 import React from 'react'
 import Image from 'next/image'
-import chaircusion from "./chaircusion.png"
+//import chaircusion from "./chaircusion.png"
 import smallwhitechair from "./smallwhitechair.jpg"
 import redchair from "./redchair.png"
 import orange from "./orange.png"
-import whitesofa from "./whitesofa.png"
-import wingchair from "./wingchair.png"
-import woodenchair from "./woodenchair.png"
-import stole1 from "./stole1.png"
+//import whitesofa from "./whitesofa.png"
+//import wingchair from "./wingchair.png"
+//import woodenchair from "./woodenchair.png"
+//import stole1 from "./stole1.png"
 
 const Producthk6 = () => {
   return (

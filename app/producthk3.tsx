@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import chaircusion from "./chaircusion.png"
+//import chaircusion from "./chaircusion.png"
 import smallwhitechair from "./smallwhitechair.jpg"
 import redchair from "./redchair.png"
 import orange from "./orange.png"

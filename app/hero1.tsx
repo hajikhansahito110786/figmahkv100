@@ -1,7 +1,7 @@
 //import Image from "next/image";
 import Image from 'next/image'
 import Product_Image from "./Product_Image.png"
-import logo1 from "./logo1.png"
+//import logo1 from "./logo1.png"
 //import Link from "next/link"
 //import {fapple} from '@fortawesome/free-brands-svg-icons';
 //import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
@@ -54,7 +54,7 @@ function Hero1() {
 	 
 	  {/*right side*/}
 	 <div className="bg-gray-500">
-	 < Image src={Product_Image} alt ='hero-image' width={400} height={580} />
+	 < Image src={Product_Image} alt ='hero-image' width={200} height={280} />
 			
 	 </div>
 

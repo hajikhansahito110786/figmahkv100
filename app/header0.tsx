@@ -1,6 +1,6 @@
 //import Image from "next/image";
 import Image from 'next/image'
-import chaircusion from "./chaircusion.png"
+//import chaircusion from "./chaircusion.png"
 import logo1 from "./logo1.png"
 import cartshop from "./cartshop.png"
 import Link from "next/link"
