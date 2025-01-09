@@ -1,0 +1,83 @@
+   <div className='width: 2216px;height: 508px;top: 1867px;
+left: -148px;
+gap: 0px;
+opacity: 0px;
+'>
+ {/*start div0*/}
+<div>
+
+<div className='bg-blue-300 width: 424px;
+height: 424px;
+top: 84px;
+left: 448px;
+gap: 0px;
+opacity: 0px;'
+>
+
+  <Image src={img0} alt="product0whitesmalljpg"
+       
+          className="width: 424px;
+height: 424px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+ 
+
+
+          "
+        />
+</div>
+<div className='width: Hug (424px)px;
+height: Hug (85px)px;
+top: 339px;
+padding: 20px 0px 0px 0px;
+gap: 8px;
+border-radius: 0px 0px 10px 10px;
+opacity: 0px;'
+>
+hello 
+</div>
+
+</div>
+
+<div>
+
+<div className='bg-green-300 width: 424px;
+height: 424px;
+top: 84px;
+left: 448px;
+gap: 0px;
+opacity: 0px;'
+>
+
+  <Image src={topctwo} alt="product0whitesmalljpg"
+       
+          className="width: 424px;
+height: 424px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+ 
+
+
+          "
+        />
+<div className='width: Hug (424px)px;
+height: Hug (85px)px;
+top: 339px;
+padding: 20px 0px 0px 0px;
+gap: 8px;
+border-radius: 0px 0px 10px 10px;
+opacity: 0px;'
+>
+hello topctwo.png
+</div>
+
+</div>
+
+</div>
+
+
+
+
+</div>
